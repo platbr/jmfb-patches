@@ -1018,6 +1018,8 @@
         <item>zh_CN</item>
         <item>zh_TW</item>
         <item>en_US</item>
+        <item>ru_RU</item>
+        <item>uk_UA</item>
         <item>pt_BR</item>
     </string-array>
 </resources>
